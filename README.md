@@ -23,6 +23,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
@@ -35,4 +36,8 @@
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+## String
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
