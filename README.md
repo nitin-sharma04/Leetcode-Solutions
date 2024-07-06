@@ -24,6 +24,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
+| [2406-decode-the-message](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/2406-decode-the-message) |
 | [2502-sort-the-people](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [2406-decode-the-message](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/2406-decode-the-message) |
 | [2502-sort-the-people](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/2502-sort-the-people) |
 ## Heap (Priority Queue)
 |  |
