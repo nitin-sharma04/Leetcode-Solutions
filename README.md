@@ -12,6 +12,7 @@
 | [0978-valid-mountain-array](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0978-valid-mountain-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1580-shuffle-the-array](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1580-shuffle-the-array) |
+| [1635-number-of-good-pairs](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1635-number-of-good-pairs) |
 | [1751-slowest-key](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1751-slowest-key) |
 | [1791-richest-customer-wealth](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1791-richest-customer-wealth) |
 | [2502-sort-the-people](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/2502-sort-the-people) |
@@ -32,6 +33,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1635-number-of-good-pairs](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1635-number-of-good-pairs) |
 | [2406-decode-the-message](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/2406-decode-the-message) |
 | [2502-sort-the-people](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/2502-sort-the-people) |
 ## Two Pointers
@@ -79,4 +81,9 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0169-majority-element) |
+| [1635-number-of-good-pairs](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1635-number-of-good-pairs) |
+## Math
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
