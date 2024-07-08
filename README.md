@@ -11,6 +11,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0978-valid-mountain-array](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0978-valid-mountain-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1635-number-of-good-pairs) |
 | [1751-slowest-key](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1751-slowest-key) |
@@ -34,6 +35,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1635-number-of-good-pairs) |
 | [2406-decode-the-message](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/2406-decode-the-message) |
 | [2502-sort-the-people](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/2502-sort-the-people) |
@@ -55,6 +57,7 @@
 | [0169-majority-element](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2502-sort-the-people](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/2502-sort-the-people) |
 | [3226-minimum-number-game](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/3226-minimum-number-game) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -82,6 +85,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0169-majority-element) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1635-number-of-good-pairs) |
 ## Math
 |  |
