@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0054-spiral-matrix) |
 | [0169-majority-element](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0978-valid-mountain-array](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0978-valid-mountain-array) |
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -92,6 +94,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0189-rotate-array) |
 | [1635-number-of-good-pairs](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1635-number-of-good-pairs) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 <!---LeetCode Topics End-->
