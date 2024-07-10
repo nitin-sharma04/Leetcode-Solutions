@@ -12,6 +12,7 @@
 | [0283-move-zeroes](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0485-max-consecutive-ones](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0978-valid-mountain-array](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0978-valid-mountain-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
