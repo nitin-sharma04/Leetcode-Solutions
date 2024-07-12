@@ -20,6 +20,7 @@
 | [1392-find-the-difference-of-two-arrays](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1580-shuffle-the-array) |
+| [1603-running-sum-of-1d-array](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1635-number-of-good-pairs) |
 | [1751-slowest-key](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1751-slowest-key) |
 | [1791-richest-customer-wealth](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1791-richest-customer-wealth) |
@@ -111,4 +112,5 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0724-find-pivot-index) |
+| [1603-running-sum-of-1d-array](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
