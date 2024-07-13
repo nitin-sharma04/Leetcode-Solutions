@@ -4,7 +4,7 @@ public:
         int row = matrix.size();
         int col = matrix[0].size();
 
-        int left = 0, right = col - 1;
+        int left = 0, right = col - 1;// binary search start from last element of first row
 
         while (left < row && right >= 0) {
             int element = matrix[left][right];
