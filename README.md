@@ -18,6 +18,7 @@
 | [0485-max-consecutive-ones](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0724-find-pivot-index) |
+| [0898-transpose-matrix](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0898-transpose-matrix) |
 | [0978-valid-mountain-array](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0978-valid-mountain-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -39,6 +40,7 @@
 | [0054-spiral-matrix](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0898-transpose-matrix](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0898-transpose-matrix) |
 | [1791-richest-customer-wealth](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1791-richest-customer-wealth) |
 | [2737-row-with-maximum-ones](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/2737-row-with-maximum-ones) |
 ## Hash Table
@@ -98,6 +100,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0054-spiral-matrix) |
+| [0898-transpose-matrix](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0898-transpose-matrix) |
 | [3226-minimum-number-game](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/3226-minimum-number-game) |
 ## Divide and Conquer
 |  |
