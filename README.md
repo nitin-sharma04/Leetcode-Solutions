@@ -30,6 +30,7 @@
 | [2502-sort-the-people](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/2502-sort-the-people) |
 | [2737-row-with-maximum-ones](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/2737-row-with-maximum-ones) |
 | [3226-minimum-number-game](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/3226-minimum-number-game) |
+| [3429-special-array-i](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/3429-special-array-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Matrix
