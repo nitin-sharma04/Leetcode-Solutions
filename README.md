@@ -134,4 +134,8 @@
 |  |
 | ------- |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
