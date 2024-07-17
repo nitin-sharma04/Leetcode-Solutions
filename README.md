@@ -123,6 +123,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0189-rotate-array) |
 | [1635-number-of-good-pairs](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1635-number-of-good-pairs) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -140,4 +141,8 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0175-combine-two-tables) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
