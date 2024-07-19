@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0074-search-a-2d-matrix) |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
