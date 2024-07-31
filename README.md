@@ -139,6 +139,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0189-rotate-array) |
 | [1635-number-of-good-pairs](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1635-number-of-good-pairs) |
@@ -160,6 +161,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0050-powx-n) |
 ## Dynamic Programming
 |  |
@@ -170,4 +172,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
