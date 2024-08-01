@@ -109,6 +109,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0008-string-to-integer-atoi](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [1751-slowest-key](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1751-slowest-key) |
 | [2406-decode-the-message](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/2406-decode-the-message) |
