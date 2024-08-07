@@ -13,6 +13,5 @@ struct ListNode* middleNode(struct ListNode* head) {
         fast = fast->next->next;
         slow = slow->next;
     }
-    printf("%d", slow->val);
     return slow;
 }
