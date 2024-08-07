@@ -82,6 +82,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0908-middle-of-the-linked-list](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -182,6 +183,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0002-add-two-numbers) |
+| [0908-middle-of-the-linked-list](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
