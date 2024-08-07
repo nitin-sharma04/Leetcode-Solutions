@@ -60,6 +60,7 @@
 | [0001-two-sum](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0142-linked-list-cycle-ii](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -77,6 +78,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0031-next-permutation) |
+| [0142-linked-list-cycle-ii](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -183,6 +185,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0002-add-two-numbers) |
+| [0142-linked-list-cycle-ii](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Sliding Window
 |  |
