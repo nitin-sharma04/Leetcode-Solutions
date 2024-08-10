@@ -171,6 +171,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0050-powx-n) |
 ## Dynamic Programming
 |  |
@@ -185,6 +186,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Sliding Window
