@@ -15,6 +15,7 @@
 | [0118-pascals-triangle](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0189-rotate-array) |
@@ -198,4 +199,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
