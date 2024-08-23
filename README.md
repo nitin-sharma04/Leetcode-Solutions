@@ -142,6 +142,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Counting
 |  |
@@ -203,4 +204,5 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
