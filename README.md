@@ -184,6 +184,7 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0392-is-subsequence) |
 ## Union Find
 |  |
@@ -205,5 +206,6 @@
 | ------- |
 | [0136-single-number](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0338-counting-bits) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
