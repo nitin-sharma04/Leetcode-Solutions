@@ -205,4 +205,5 @@
 | ------- |
 | [0136-single-number](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0191-number-of-1-bits) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
