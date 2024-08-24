@@ -29,6 +29,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0898-transpose-matrix](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0898-transpose-matrix) |
 | [0978-valid-mountain-array](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0978-valid-mountain-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -103,6 +104,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Sorting
 |  |
 | ------- |
