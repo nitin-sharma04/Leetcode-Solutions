@@ -68,6 +68,7 @@
 | [0141-linked-list-cycle](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -87,6 +88,7 @@
 | [0141-linked-list-cycle](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -165,6 +167,7 @@
 | [0007-reverse-integer](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0202-happy-number) |
 | [1635-number-of-good-pairs](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1635-number-of-good-pairs) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Prefix Sum
