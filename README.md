@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0031-next-permutation) |
@@ -82,6 +83,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0031-next-permutation) |
@@ -180,6 +182,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0011-container-with-most-water) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Database
 |  |
