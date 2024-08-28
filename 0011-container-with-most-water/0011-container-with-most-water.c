@@ -22,4 +22,4 @@ int maxArea(int* height, int heightSize) {
 
    return maxArea;
     
-} 
+}
