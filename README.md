@@ -211,6 +211,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
