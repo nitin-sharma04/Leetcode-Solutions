@@ -136,6 +136,7 @@
 | [0344-reverse-string](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0392-is-subsequence) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1751-slowest-key](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1751-slowest-key) |
 | [2406-decode-the-message](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/2406-decode-the-message) |
 | [2502-sort-the-people](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/2502-sort-the-people) |
