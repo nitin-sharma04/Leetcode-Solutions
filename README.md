@@ -142,6 +142,7 @@
 | [0344-reverse-string](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0412-fizz-buzz) |
 | [0812-rotate-string](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1751-slowest-key](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1751-slowest-key) |
@@ -156,6 +157,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0412-fizz-buzz) |
 | [0898-transpose-matrix](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0898-transpose-matrix) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -183,6 +185,7 @@
 | [0066-plus-one](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0202-happy-number) |
+| [0412-fizz-buzz](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0412-fizz-buzz) |
 | [1635-number-of-good-pairs](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1635-number-of-good-pairs) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Prefix Sum
