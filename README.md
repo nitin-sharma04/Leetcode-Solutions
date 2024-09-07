@@ -31,6 +31,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -241,6 +242,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Bit Manipulation
 |  |
 | ------- |
