@@ -110,6 +110,7 @@
 | [0392-is-subsequence](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0392-is-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -251,6 +252,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
