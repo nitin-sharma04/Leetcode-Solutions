@@ -17,14 +17,11 @@ public:
 
 
         for(int i=0;i<n;i++){
-           
             for(int j=0;j<m;j++){
-                 if(rowSpace[i]==1){
+                 if(rowSpace[i]||colSpace[j]){
                   matrix[i][j]=0;
-            }
-                if(colSpace[j]==1)
-                    matrix[i][j]=0;
-            }
-        }
+                }
+            }    
     }
+  }
 };
