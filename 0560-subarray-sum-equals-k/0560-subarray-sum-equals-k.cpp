@@ -1,7 +1,7 @@
 class Solution {
 public:
     int subarraySum(vector<int>& nums, int k) {
-         unordered_map<int, int> sum_count;
+        unordered_map<int, int> sum_count;
         sum_count[0] = 1;
         int sum = 0;
         int total_subArray = 0;
