@@ -109,6 +109,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -236,6 +237,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -259,6 +261,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0908-middle-of-the-linked-list) |
@@ -287,4 +290,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
