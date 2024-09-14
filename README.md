@@ -213,6 +213,7 @@
 | [0268-missing-number](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0412-fizz-buzz) |
 | [1635-number-of-good-pairs](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1635-number-of-good-pairs) |
+| [1761-count-sorted-vowel-strings](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1761-count-sorted-vowel-strings) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Prefix Sum
 |  |
@@ -247,6 +248,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0392-is-subsequence) |
+| [1761-count-sorted-vowel-strings](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1761-count-sorted-vowel-strings) |
 ## Union Find
 |  |
 | ------- |
@@ -296,4 +298,8 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0234-palindrome-linked-list) |
+## Combinatorics
+|  |
+| ------- |
+| [1761-count-sorted-vowel-strings](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1761-count-sorted-vowel-strings) |
 <!---LeetCode Topics End-->
