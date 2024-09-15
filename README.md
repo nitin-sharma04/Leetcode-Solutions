@@ -215,6 +215,7 @@
 | [0412-fizz-buzz](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0412-fizz-buzz) |
 | [1635-number-of-good-pairs](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1635-number-of-good-pairs) |
 | [1761-count-sorted-vowel-strings](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1761-count-sorted-vowel-strings) |
+| [2556-convert-the-temperature](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/2556-convert-the-temperature) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Prefix Sum
 |  |
