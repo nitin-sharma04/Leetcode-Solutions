@@ -51,6 +51,7 @@
 | [1635-number-of-good-pairs](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1635-number-of-good-pairs) |
 | [1751-slowest-key](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1751-slowest-key) |
 | [1791-richest-customer-wealth](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1791-richest-customer-wealth) |
+| [1833-find-the-highest-altitude](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1833-find-the-highest-altitude) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -222,6 +223,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1603-running-sum-of-1d-array) |
+| [1833-find-the-highest-altitude](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1833-find-the-highest-altitude) |
 ## Greedy
 |  |
 | ------- |
