@@ -31,6 +31,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0485-max-consecutive-ones) |
@@ -112,6 +113,7 @@
 | [0202-happy-number](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -132,6 +134,7 @@
 | [0162-find-peak-element](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0658-find-k-closest-elements) |
@@ -286,6 +289,7 @@
 | [0136-single-number](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0338-counting-bits) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## String Matching
