@@ -90,6 +90,7 @@
 | [0268-missing-number](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -168,6 +169,7 @@
 | [0058-length-of-last-word](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0412-fizz-buzz) |
 | [0812-rotate-string](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0812-rotate-string) |
@@ -204,6 +206,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1635-number-of-good-pairs) |
 ## Math
@@ -319,4 +322,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1013-fibonacci-number) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
