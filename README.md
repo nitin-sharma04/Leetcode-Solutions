@@ -218,6 +218,7 @@
 | [0202-happy-number](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0412-fizz-buzz) |
+| [1013-fibonacci-number](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1635-number-of-good-pairs) |
 | [1761-count-sorted-vowel-strings](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1761-count-sorted-vowel-strings) |
 | [2556-convert-the-temperature](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/2556-convert-the-temperature) |
@@ -248,6 +249,7 @@
 | [0203-remove-linked-list-elements](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -256,6 +258,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0392-is-subsequence) |
+| [1013-fibonacci-number](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1013-fibonacci-number) |
 | [1761-count-sorted-vowel-strings](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1761-count-sorted-vowel-strings) |
 ## Union Find
 |  |
@@ -311,4 +314,8 @@
 |  |
 | ------- |
 | [1761-count-sorted-vowel-strings](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1761-count-sorted-vowel-strings) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
