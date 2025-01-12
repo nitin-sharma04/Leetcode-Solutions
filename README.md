@@ -255,6 +255,7 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0176-second-highest-salary) |
+| [1462-list-the-products-ordered-in-a-period](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1462-list-the-products-ordered-in-a-period) |
 ## Recursion
 |  |
 | ------- |
