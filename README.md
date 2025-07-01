@@ -41,6 +41,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/nitin-sharma04/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0658-find-k-closest-elements) |
@@ -151,6 +152,7 @@
 | [0287-find-the-duplicate-number](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/nitin-sharma04/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
