@@ -6,14 +6,17 @@ public:
         while (low <= high) {
             int mid = low + (high - low) / 2;
 
+            if (nums[mid] < min)
+                min = nums[mid];
+
             if (nums[low] <= nums[mid]) {
-                if(nums[low]<min) min = nums[low];
+                if (nums[low] < min)
+                    min = nums[low];
                 low = mid + 1;
-                cout<<min;
             } else {
-                if(nums[high]<min) min = nums[high];
+                if (nums[high] < min)
+                    min = nums[high];
                 high = mid - 1;
-                cout<<min<<endl;
             }
         }
         return min;
