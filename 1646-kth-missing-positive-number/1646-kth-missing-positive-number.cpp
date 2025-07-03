@@ -12,7 +12,7 @@ public:
             else
                 high = mid - 1;
         }
-
+        // or we can return high + 1 + k => arr[high] + more (more = k-missing)
         return low + k;
     }
 };
