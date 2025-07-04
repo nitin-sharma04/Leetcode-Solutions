@@ -13,13 +13,9 @@ public:
                     if (mid != i)
                         return true;
                     else {
-                        // even if match found, index is same
-                        // so check other occurrences
-                        int left = mid - 1;
-                        int right = mid + 1;
-                        if (left >= 0 && arr[left] == target)
-                            return true;
-                        if (right < arr.size() && arr[right] == target)
+                        // check other possible same values
+                        if ((mid > 0 && arr[mid - 1] == target) ||
+                            (mid + 1 < arr.size() && arr[mid + 1] == target))
                             return true;
                         break;
                     }
