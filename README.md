@@ -54,6 +54,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/nitin-sharma04/Leetcode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/nitin-sharma04/Leetcode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/nitin-sharma04/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1580-shuffle-the-array) |
@@ -105,6 +106,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/nitin-sharma04/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1635-number-of-good-pairs) |
 | [2406-decode-the-message](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/2406-decode-the-message) |
@@ -136,6 +138,7 @@
 | [0392-is-subsequence](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0392-is-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0908-middle-of-the-linked-list) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/nitin-sharma04/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -167,6 +170,7 @@
 | [0907-koko-eating-bananas](https://github.com/nitin-sharma04/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/nitin-sharma04/Leetcode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/nitin-sharma04/Leetcode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/nitin-sharma04/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/nitin-sharma04/Leetcode-Solutions/tree/master/1646-kth-missing-positive-number) |
 ## Sorting
@@ -183,6 +187,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0658-find-k-closest-elements) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/nitin-sharma04/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2502-sort-the-people](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/2502-sort-the-people) |
