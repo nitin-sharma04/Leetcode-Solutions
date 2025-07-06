@@ -40,6 +40,7 @@
 | [0287-find-the-duplicate-number](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/nitin-sharma04/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nitin-sharma04/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -162,6 +163,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/nitin-sharma04/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/nitin-sharma04/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/nitin-sharma04/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/nitin-sharma04/Leetcode-Solutions/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nitin-sharma04/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0658-find-k-closest-elements) |
@@ -268,6 +270,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/nitin-sharma04/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1603-running-sum-of-1d-array) |
@@ -276,6 +279,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/nitin-sharma04/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Database
 |  |
@@ -303,6 +307,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/nitin-sharma04/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [1013-fibonacci-number](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1013-fibonacci-number) |
 | [1761-count-sorted-vowel-strings](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1761-count-sorted-vowel-strings) |
 ## Union Find
