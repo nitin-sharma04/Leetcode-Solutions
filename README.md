@@ -31,6 +31,7 @@
 | [0162-find-peak-element](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/nitin-sharma04/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0238-product-of-array-except-self) |
@@ -257,6 +258,7 @@
 | [0069-sqrtx](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/nitin-sharma04/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/nitin-sharma04/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0412-fizz-buzz) |
@@ -377,4 +379,12 @@
 | ------- |
 | [0278-first-bad-version](https://github.com/nitin-sharma04/Leetcode-Solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/nitin-sharma04/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nitin-sharma04/Leetcode-Solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/nitin-sharma04/Leetcode-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
