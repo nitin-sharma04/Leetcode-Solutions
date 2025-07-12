@@ -67,6 +67,7 @@
 | [1751-slowest-key](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1751-slowest-key) |
 | [1791-richest-customer-wealth](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1833-find-the-highest-altitude) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/nitin-sharma04/Leetcode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -266,6 +267,7 @@
 | [1013-fibonacci-number](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1635-number-of-good-pairs) |
 | [1761-count-sorted-vowel-strings](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1761-count-sorted-vowel-strings) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/nitin-sharma04/Leetcode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2556-convert-the-temperature](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/2556-convert-the-temperature) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Prefix Sum
@@ -387,4 +389,5 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/nitin-sharma04/Leetcode-Solutions/tree/master/0204-count-primes) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/nitin-sharma04/Leetcode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
