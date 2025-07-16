@@ -69,6 +69,7 @@
 | [1791-richest-customer-wealth](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1833-find-the-highest-altitude) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/nitin-sharma04/Leetcode-Solutions/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/nitin-sharma04/Leetcode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -145,6 +146,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/nitin-sharma04/Leetcode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/nitin-sharma04/Leetcode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -217,6 +219,7 @@
 | [0812-rotate-string](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1751-slowest-key](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/1751-slowest-key) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/nitin-sharma04/Leetcode-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2406-decode-the-message](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/2406-decode-the-message) |
 | [2502-sort-the-people](https://github.com/nitin-sharma04/Leetcode-_Solutions/tree/master/2502-sort-the-people) |
